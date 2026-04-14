@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" fill="none">
+  <!-- Left ear -->
+  <polygon points="60,10 45,110 80,95" fill="#1a1a1a" stroke="#111" stroke-width="1.5"/>
+  <polygon points="63,18 50,100 74,88" fill="#ef4444" opacity="0.85"/>
+  <polygon points="58,12 47,80 68,72" fill="#2a2a2a"/>
+
+  <!-- Right ear -->
+  <polygon points="140,10 155,110 120,95" fill="#1a1a1a" stroke="#111" stroke-width="1.5"/>
+  <polygon points="137,18 150,100 126,88" fill="#ef4444" opacity="0.85"/>
+  <polygon points="142,12 153,80 132,72" fill="#2a2a2a"/>
+
+  <!-- Head base -->
+  <polygon points="100,55 55,90 60,150 100,165 140,150 145,90" fill="#2d2d2d" stroke="#1a1a1a" stroke-width="1.5"/>
+
+  <!-- Head facets -->
+  <polygon points="100,55 75,80 100,100" fill="#3a3a3a"/>
+  <polygon points="100,55 125,80 100,100" fill="#252525"/>
+  <polygon points="75,80 60,150 100,165 100,100" fill="#333"/>
+  <polygon points="125,80 140,150 100,165 100,100" fill="#1e1e1e"/>
+
+  <!-- Center highlight -->
+  <polygon points="100,60 88,85 100,95 112,85" fill="#555" opacity="0.6"/>
+
+  <!-- Left eye -->
+  <ellipse cx="78" cy="115" rx="14" ry="11" fill="#ef4444"/>
+  <ellipse cx="78" cy="115" rx="10" ry="8" fill="#cc0000"/>
+  <ellipse cx="78" cy="115" rx="5" ry="5" fill="#ff2222"/>
+  <ellipse cx="75" cy="112" rx="2" ry="2" fill="#ff8888" opacity="0.7"/>
+
+  <!-- Right eye -->
+  <ellipse cx="122" cy="115" rx="14" ry="11" fill="#ef4444"/>
+  <ellipse cx="122" cy="115" rx="10" ry="8" fill="#cc0000"/>
+  <ellipse cx="122" cy="115" rx="5" ry="5" fill="#ff2222"/>
+  <ellipse cx="119" cy="112" rx="2" ry="2" fill="#ff8888" opacity="0.7"/>
+
+  <!-- Nose -->
+  <polygon points="100,140 94,148 106,148" fill="#ef4444" opacity="0.9"/>
+
+  <!-- Chin / jaw line -->
+  <polygon points="80,155 100,165 120,155 100,160" fill="#1a1a1a"/>
+
+  <!-- V-chevron bottom -->
+  <polygon points="65,168 100,200 135,168 130,172 100,196 70,172" fill="#ef4444"/>
+  <polygon points="72,168 100,192 128,168 124,171 100,188 76,171" fill="#8b0000" opacity="0.6"/>
+
+  <!-- Red slash accents left -->
+  <line x1="38" y1="130" x2="55" y2="155" stroke="#ef4444" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <line x1="30" y1="140" x2="44" y2="160" stroke="#8b0000" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="42" y1="120" x2="52" y2="138" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Red slash accents right -->
+  <line x1="162" y1="130" x2="145" y2="155" stroke="#ef4444" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <line x1="170" y1="140" x2="156" y2="160" stroke="#8b0000" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="158" y1="120" x2="148" y2="138" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Splatter dots -->
+  <circle cx="32" cy="118" r="2.5" fill="#ef4444" opacity="0.7"/>
+  <circle cx="26" cy="128" r="1.5" fill="#ef4444" opacity="0.5"/>
+  <circle cx="168" cy="118" r="2.5" fill="#ef4444" opacity="0.7"/>
+  <circle cx="174" cy="128" r="1.5" fill="#ef4444" opacity="0.5"/>
+  <circle cx="50" cy="105" r="1.5" fill="#ef4444" opacity="0.4"/>
+  <circle cx="150" cy="105" r="1.5" fill="#ef4444" opacity="0.4"/>
+</svg>
